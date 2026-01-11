@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="BMI Calculator",
+    page_title="Asad BMI Calculator",
     page_icon="⚕️",
     layout="centered"
 )
